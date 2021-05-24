@@ -6,3 +6,5 @@ ls- list of files and directories
 
 
 cd - change directory
+
+pwd- present working directory
